@@ -1,3 +1,3 @@
 # multiplication-table
-all of the multiplication tables you need.
-I kind of suck at programing so this will take some time
+All of the multiplication tables you need.
+This is the first time I am using GitHub so I know this will not be as amazing as other stuff.
